@@ -1,0 +1,18 @@
+package org.example.jebin.mahdia.OOP;
+
+public class MainClass {
+	
+	public static void main (String []args) {
+		
+		Phone iphone = new Phone();
+		iphone.name = "iphone11";
+		System.out.println(iphone.name);
+		iphone.playMusic("our wings are burning");
+		
+	}
+	
+	
+	
+	
+
+}
