@@ -23,9 +23,9 @@ public class MainClass {
 		
 		phoenix.eat("meat");
 		
-//		System.out.println(phoenix.getWings());
-//		
-//		phoenix.fly();
+		System.out.println(phoenix.getWings());
+		
+		phoenix.fly();
 		
 	}
 	

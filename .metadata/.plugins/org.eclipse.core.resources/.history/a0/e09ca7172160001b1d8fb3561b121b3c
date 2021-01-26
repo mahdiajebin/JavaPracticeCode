@@ -16,8 +16,9 @@ public class Bird extends Animal {
 	@Override
 	public void eat(String food) {
 		// TODO Auto-generated method stub
+		super.eat(food);
 		
-		System.out.println("chewing food");
+		System.out.println(" eating finished");
 	}
 
 

@@ -13,17 +13,6 @@ public class Bird extends Animal {
 	
 	
 
-	@Override
-	public void eat(String food) {
-		// TODO Auto-generated method stub
-		
-		System.out.println("chewing food");
-	}
-
-
-
-
-
 	public int getWings() {
 		return wings;
 	}

@@ -9,20 +9,6 @@ public class Bird extends Animal {
 		this.wings = wings;
 	}
 	
-	
-	
-	
-
-	@Override
-	public void eat(String food) {
-		// TODO Auto-generated method stub
-		
-		System.out.println("chewing food");
-	}
-
-
-
-
 
 	public int getWings() {
 		return wings;

@@ -17,7 +17,7 @@ public class Bird extends Animal {
 	public void eat(String food) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("chewing food");
+		System.out.println(" eating finished");
 	}
 
 
